@@ -2,7 +2,7 @@
 
 The Deep Neural Network Approach (with Data and Code)
 
-Stan Z. Li, Anil K. Jain, Jiankang Deng
+；Stan Z. Li, Anil K. Jain, Jiankang Deng
 
 ## Aim and Scope
 
