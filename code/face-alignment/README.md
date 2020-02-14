@@ -1,22 +1,13 @@
-# High-resolution networks (HRNets) for facial landmark detection
+# Face alignment by High-resolution networks (HRNets) 
+
+Ke Sun et al
+
 ## Introduction 
-This is the official code of [High-Resolution Representations for Facial Landmark Detection](https://arxiv.org/pdf/1904.04514.pdf). 
-We extend the high-resolution representation (HRNet) [1] by augmenting the high-resolution representation by aggregating the (upsampled) 
-representations from all the parallel convolutions, leading to stronger representations. The output representations are fed into
-classifier. We evaluate our methods on four datasets, COFW, AFLW, WFLW and 300W.
-
-<div align=center>
-
-![](images/hrnet.jpg)
-
-</div>
+This is the training code of [High-Resolution Representations for Facial Landmark Detection](https://arxiv.org/pdf/1904.04514.pdf). 
 
 ## Performance
-### ImageNet pretrained models
-HRNetV2 ImageNet pretrained models are now available! Codes and pretrained models are in [HRNets for Image Classification](https://github.com/HRNet/HRNet-Image-Classification)
 
-
-We adopt **HRNetV2-W18**(#Params=9.3M, GFLOPs=4.3G) for facial landmark detection on COFW, AFLW, WFLW and 300W.
+ **HRNetV2-W18**(#Params=9.3M, GFLOPs=4.3G) is used for facial landmark detection on COFW, AFLW, WFLW and 300W.
 
 ### COFW
 
@@ -47,8 +38,6 @@ The model is trained on AFLW *train* and evaluated on AFLW *full* and *frontal*.
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |HRNetV2-W18 | 2.91 | 5.11 | 3.34 | 3.85 | [HRNetV2-W18](https://1drv.ms/u/s!Aus8VCZ_C_33cMkPimlmClRvmpw) | [HR18-300W.pth](https://1drv.ms/u/s!AiWjZ1LamlxzeYLmza1XU-4WhnQ)|
 
-
-![](images/face.png)
 
 ## Quick start
 #### Environment
@@ -130,13 +119,6 @@ python tools/test.py --cfg <CONFIG-FILE> --model-file <MODEL WEIGHT>
 python tools/test.py --cfg experiments/wflw/face_alignment_wflw_hrnet_w18.yaml --model-file HR18-WFLW.pth
 ````
 
- 
-## Other applications of HRNets (codes and models):
-* [Human pose estimation](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
-* [Semantic segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation)
-* [Object detection](https://github.com/HRNet/HRNet-Object-Detection)
-* [Image classification](https://github.com/HRNet/HRNet-Image-Classification)
- 
 ## Citation
 If you find this work or code is helpful in your research, please cite:
 ````
@@ -157,8 +139,3 @@ If you find this work or code is helpful in your research, please cite:
   year={2019}
 }
 ````
-
-## Reference
-[1] Deep High-Resolution Representation Learning for Visual Recognition. Jingdong Wang, Ke Sun, Tianheng Cheng, 
-    Borui Jiang, Chaorui Deng, Yang Zhao, Dong Liu, Yadong Mu, Mingkui Tan, Xinggang Wang, Wenyu Liu, Bin Xiao. [download](https://arxiv.org/pdf/1908.07919.pdf)
-

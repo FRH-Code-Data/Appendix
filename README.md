@@ -2,8 +2,6 @@
 
 The Deep Neural Network Approach (with Data and Code)
 
-Stan Z. Li, Anil K. Jain, Jiankang Deng
-
 ## Aim and Scope
 
 Face recognition is the most prominent biometric technique for identity authentication and is widely used in applications, 

@@ -1,8 +1,7 @@
 `Status`
-* ✔️ = the author is fixed, the chapter is under writing.
-* ✅ = the chapter is finished.
 * ❔  = the author is not confirmed.
-
+* ✔️ = we received confirmation from the author, and the chapter is under writing.
+* ✅ = the chapter is finished.
 
 
 |   Chapter          | Corresponding Author   | Email  | Status|
@@ -14,8 +13,8 @@
 |5. Generative Adversarial Networks|Ian Goodfellow|ia3n@cs.stanford.edu|❔|
 |6. Transfer Learning and Domain Adaptation|Mingsheng Long|mingsheng@tsinghua.edu.cn|✔️|
 |7. Semi-supervised Learning|Hailin Shi|aniuzhang.work@gmail.com|✔️|
-|8. Neural Network Model Compression and Acceleration|Song Han|songhan@mit.edu|✔️|
-|9. Deep Learning Development Frameworks|Mu Li|muli@cs.cmu.edu|✔️|
+|8. Neural Network Model Compression and Acceleration|Song Han|songhan@mit.edu|❔|
+|9. Deep Learning Development Frameworks|Mu Li|muli@cs.cmu.edu|❔|
 |10. Face Detection|Shifeng Zhang|shifeng.zhang@nlpr.ia.ac.cn|✔️|
 |11. Face Alignment|Zhenhua Feng|z.feng@surrey.ac.uk|✔️|
 |12. Face Parsing|Dong Chen|doch@microsoft.com|✔️|
@@ -28,7 +27,7 @@
 |19. Heterogeneous Face Recognition|Ran He|rhe@nlpr.ia.ac.cn|✔️|
 |20. Face Spoofing Detection|Zhen Lei|zlei@nlpr.ia.ac.cn|✔️|
 |21. Adversarial Face Perturbations|Mayank Vatsa|mayank@iiitd.ac.in|❔|
-|22. Face Expression Recognition|Shiguang Shan|sgshan@ict.ac.cn|✔️|
+|22. Face Expression Recognition|Shiguang Shan|sgshan@ict.ac.cn|❔|
 |23. Face Attribute Recognition|Jun Wan|jun.wan@nlpr.ia.ac.cn|✔️|
 |24. Multi-task Learning for Face Analysis|Rajeev Ranjan|rranjan1@umd.edu|❔|
 |25. Face Recognition in Video|Sixue Gong|gongsixu@msu.edu|✔️|
