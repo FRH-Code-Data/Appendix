@@ -35,4 +35,6 @@ Each module will be updated by the latest state-of-the-art method. Here, we pref
 |19. Face Super-resolution|Jing Yang|❔|WiderFace Train|WiderFace Test|[Learn Degradation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Adrian_Bulat_To_learn_image_ECCV_2018_paper.pdf)||
 |20. Face Data Augmentation|Iacopo Masi||COW|IJB-A|[Face-Specific Augmentation](https://talhassner.github.io/home/projects/augmented_faces/Masietal_IJCV2019.pdf)||
 |21. Face Animation|Justus Thies|❔|||[Face2Face](https://ieeexplore.ieee.org/document/7780631)||
-|22. Face Recognition System|Jiankang Deng|✔️|Celeb500K|FRVT|[ArcFace](https://arxiv.org/abs/1801.07698)|Accurate|
+|22. Explainable face recognition|Xiaoming Liu|❔|||[Interpretable Face](https://arxiv.org/pdf/1805.00611.pdf)||
+|23. Bias in Face Recognition|Xiaoming Liu|❔|||[De-biasing](https://arxiv.org/pdf/1911.08080.pdf)||
+|24. Face Recognition System|Jiankang Deng|✔️|Celeb500K|FRVT|[ArcFace](https://arxiv.org/abs/1801.07698)|Accurate|
