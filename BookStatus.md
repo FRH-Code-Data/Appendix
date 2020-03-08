@@ -34,9 +34,11 @@
 |26. Face Super-resolution|Xin Yu|xin.yu@anu.edu.au|✔️|
 |27. Face Data Augmentation|Iacopo Masi|iacopo.masi@usc.edu|❔|
 |28. Face Animation|Justus Thies|justus.thies@tum.de|❔|
-|29. Face Unlock Systems|Florian Schroff|fschroff@goole.com|❔|
-|30. Large Scale Face Search Systems|Jingtuo Liu|liujingtuo@baidu.com|❔|
-|31. Security and Privacy Protection|Arun Ross|rossarun@cse.msu.edu|❔|
-|32. Evaluation Methodology|Patrick J. Flynn|flynn@nd.edu|❔|
-|33. Face Recognition Standards|Christoph Busch|christoph.busch@ntnu.no|❔|
-|34. Government Regulations and Ethics|||❔|
+|29. Explainable face recognition|Xiaoming Liu|liuxm@cse.msu.edu|❔|
+|30. Bias in Face Recognition|Xiaoming Liu|liuxm@cse.msu.edu|❔|
+|31. Face Unlock Systems|Florian Schroff|fschroff@goole.com|❔|
+|32. Large Scale Face Search Systems|Jingtuo Liu|liujingtuo@baidu.com|❔|
+|33. Security and Privacy Protection|Arun Ross|rossarun@cse.msu.edu|❔|
+|34. Database and Benchmarking|Patrick J. Flynn|flynn@nd.edu|❔|
+|35. Face Recognition Standards|Christoph Busch|christoph.busch@ntnu.no|❔|
+|36. Government Regulations and Ethics|||❔|
