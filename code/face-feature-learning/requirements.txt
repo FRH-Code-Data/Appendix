@@ -2,7 +2,7 @@ glog==0.3.1
 numpy==1.15.4
 opencv-python==3.4.4.19
 Pillow==6.2.0
-protobuf==3.6.1
+protobuf==3.18.3
 python-gflags==3.1.2
 scipy==1.1.0
 six==1.11.0
